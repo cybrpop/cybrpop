@@ -1,5 +1,5 @@
 ### Hello!
-- I am CyberPop, a 13 year old Javascript/Typescript developer from India!
+`👀` - I am CyberPop, a 13 year old Javascript/Typescript developer from India!
 - I like to create new things and break them.
 - Im currently a staff for [Arctic Bot](https://top.gg/bot/674432747535597579), It's a really cool A.I. based moderation bot so check it out!
 # **Stuff I use**
