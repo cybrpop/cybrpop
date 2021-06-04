@@ -1,1 +1,1 @@
-![metrics](https://github.com/cybrpop/cybrpop/blob/master/github-metrics.svg)
+![metrics](https://github.com/cybrpop/cybrpop/blob/main/github-metrics.svg)
