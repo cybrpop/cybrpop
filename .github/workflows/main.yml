@@ -1,4 +1,4 @@
-- name: Metrics embed
+name: Metrics embed
   # You may pin to the exact commit or the version.
   # uses: lowlighter/metrics@a4d08dd9a688887a98f368ce9c07dff06e3d3932
   uses: lowlighter/metrics@v3.10
